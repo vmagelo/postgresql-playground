@@ -10,7 +10,7 @@ This repo can be opened in a [Codespaces](https://docs.github.com/en/codespaces/
 2. Start the web app:
 
   ```
-  uvicorn app:app --reload
+  uvicorn main:app --reload
   ```
 
 ## Pydantic and SQLAlchemy
